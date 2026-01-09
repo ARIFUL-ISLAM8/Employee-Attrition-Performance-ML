@@ -14,7 +14,7 @@ A Kaggle dataset containing 10,000 employee records was used, and multiple model
 - Target Variable: Attrition (Yes / No)
 
 ###  Preprocessed Dataset Preview
-<img src="preprocessed_dataset.png" width="400"/>
+<img src="preproccesed_dataset.png" width="400"/>
 
 ---
 
@@ -24,7 +24,7 @@ A Kaggle dataset containing 10,000 employee records was used, and multiple model
 3. XGBoost  
 4. MLP Neural Network  
 5. Voting Ensemble  
-6. Final Optimized MLP Model  
+  
 
 ---
 
@@ -45,8 +45,7 @@ A Kaggle dataset containing 10,000 employee records was used, and multiple model
 ### Voting Ensemble
 <img src="confusion_matrix5.png" width="300"/>
 
-### Final Optimized Model
-<img src="confusion_matrix6.png" width="300"/>
+
 
 ---
 
